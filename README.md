@@ -9,4 +9,5 @@
     - Git commands
 # OPPSPrac
 fetch & merge
-A
+A  
+B  
